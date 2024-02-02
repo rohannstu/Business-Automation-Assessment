@@ -99,7 +99,7 @@ int main()
       cout << "Enter Name: ";
       cin >> name;
       cout << "Enter model: ";
-      cin >> model;m
+      cin >> model;
       cout << "Enter year: ";
       cin >> year;
       cout << "Enter fuel efficiency (MPG): ";
